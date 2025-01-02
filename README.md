@@ -16,8 +16,8 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
  6. Prediction: Predict placement status for new student data using trained model.
  7. End the program
 
-## Program:
-```
+## Program: 
+```python
 /*
 Program to implement the the Logistic Regression Using Gradient Descent.
 Developed by: Abdul Rasak . N 
